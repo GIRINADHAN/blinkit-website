@@ -1,74 +1,124 @@
-# 🍛 Biryani Ordering Website
+# 🛒 Blinkit Clone Website
 
-A responsive and interactive Biryani Ordering Website built using **HTML, CSS, and JavaScript**. The project provides a simple online food ordering experience where users can browse menu items, add products to the cart, and proceed with ordering through a clean and user-friendly interface.
+A responsive **Blinkit Clone** built using **HTML** and **CSS**. This project recreates the user interface of the Blinkit grocery delivery platform, including multiple pages such as the home page, login page, product pages, and shopping cart.
 
-## 🚀 Features
+## 🚀 Live Demo
 
-- 🍗 Browse different biryani varieties
-- 🛒 Add and remove items from the cart
-- 💳 Simple checkout interface
-- 🔐 Login & OTP pages
-- 🎨 Responsive and attractive UI
-- 📱 Mobile-friendly design
+https://girinadhan.github.io/blinkit-website/
 
-## 🛠️ Technologies Used
+---
+
+## 📌 Features
+
+- ✅ Responsive homepage layout
+- ✅ Clean and modern UI
+- ✅ Login page design
+- ✅ Shopping cart page
+- ✅ Product listing pages
+- ✅ Navigation between multiple pages
+- ✅ Font Awesome icons
+- ✅ Mobile-friendly design
+
+---
+
+## 🛠️ Built With
 
 - HTML5
 - CSS3
-- JavaScript
+- Font Awesome
 
-## 📁 Project Structure
+---
+
+## 📂 Project Structure
 
 ```
+Blinkit Clone/
+│
 ├── index.html
 ├── index.css
-├── index.js
-├── navbar.js
-├── page2.js
-├── page2.css
-├── page3.css
-├── page4.css
-├── page5.css
-├── login.css
-├── cart.css
-├── offer.css
-├── otp.css
-├── map.css
-├── bill.css
-├── imgs/
-└── page2 imgs/
+│
+├── login page.html
+├── login page.css
+│
+├── cart page.html
+├── cart page.css
+│
+├── Blinkit page3.html
+├── Blinkit page3.css
+│
+├── Blinkit page4.html
+├── Blinkit page4.css
+│
+└── images/
 ```
 
-## ▶️ Getting Started
+---
+
+Example:
+
+- Home Page
+- Login Page
+- Cart Page
+- Product Page
+
+*(Upload screenshots inside a `screenshots` folder and link them here.)*
+
+---
+
+## 💻 How to Run
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/GIRINADHAN/Briyani-Ordering-website.git
+git clone https://github.com/your-username/blinkit-clone.git
 ```
 
 2. Open the project folder.
 
 3. Open **index.html** in your browser.
 
-## 📸 Screenshots
+No installation or additional dependencies are required.
 
-You can add screenshots of your project here.
+---
 
-## 🌐 Live Demo
+## 🎯 Learning Outcomes
 
-GitHub Pages link will be available here after deployment.
+Through this project, I practiced:
 
-## 📌 Future Improvements
+- HTML page structuring
+- CSS Flexbox
+- CSS Grid
+- Responsive Web Design
+- Navigation between pages
+- UI cloning from a real-world website
+- Clean folder organization
 
+---
+
+## 🔮 Future Improvements
+
+- Add JavaScript functionality
+- Product search
+- Add to Cart functionality
+- Quantity increment/decrement
 - User authentication
-- Online payment integration
-- Backend database support
-- Order history
-- Admin dashboard
+- Backend integration
+- Payment page
+- Responsive improvements
+
+---
 
 ## 👨‍💻 Author
 
-**Girinadhan**
+**Girinathan**
 
-GitHub: https://github.com/GIRINADHAN
+- GitHub:   https://github.com/GIRINADHAN
+- LinkedIn: https://linkedin.com/in/girinadhan
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to **Star ⭐ the repository**.
+
+Feedback and suggestions are always welcome!
